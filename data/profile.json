@@ -16,8 +16,16 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
       },
       {
+        "name": "Typecript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/typescript.png"
+      },
+      {
         "name": "MySQL",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
       }
     ],
     "softSkills": [
@@ -44,6 +52,10 @@
     }
   ],
   "professionalExperience": [
-    {}
+    {
+      "name": "Auxiliar administrativo",
+      "period": "Junho - Dezembro 2022",
+      "description": "Realizava a manutenção do site, como a atualização de estoque, cadastramento de produtos, edição de imagens e correção das descrições. Tudo por meio do Tiny ERP e WordPress"
+    }
   ]
 }
